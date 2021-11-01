@@ -40,5 +40,3 @@ $RECYCLE.BIN/
 .env
 
 .sfdx
-.vscode
-.DS_Store
